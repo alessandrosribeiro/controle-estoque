@@ -2,6 +2,7 @@
 projeto de um sistema desktop para controle de estoque usando a linguagem java e o banco de dados MYSQL
 
 Curso técnico em informática (Senac Tatuapé).
+
 Professor: José Assis.
 
 ** autor
