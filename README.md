@@ -32,3 +32,5 @@ Alessandro da Silva
 # Instalação
 
 Necessário Java 17 ou Superior
+
+Banco de dados MYSQL
