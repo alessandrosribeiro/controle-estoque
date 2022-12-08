@@ -7,7 +7,9 @@ Professor: José Assis.
 ** autor
 Alessandro da Silva
 
-# Controle de Estoque Imagem![1](https://user-images.githubusercontent.com/57419425/206587040-8488fd71-f6b4-43e0-9a9a-468f75bab58a.PNG)
+# Controle de Estoque Imagem!
+
+[1](https://user-images.githubusercontent.com/57419425/206587040-8488fd71-f6b4-43e0-9a9a-468f75bab58a.PNG)
 
 # Aplicativos
 . Fornecedor
