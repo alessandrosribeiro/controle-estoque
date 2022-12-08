@@ -9,7 +9,7 @@ Alessandro da Silva
 
 # Controle de Estoque
 
-![1](https://user-images.githubusercontent.com/57419425/206587351-ee8522a4-3023-405e-89ad-67830ee21edb.PNG) ![2](https://user-images.githubusercontent.com/57419425/206587475-5c30c8fb-9dd0-4616-9688-4bdb47543956.PNG)
+![1](https://user-images.githubusercontent.com/57419425/206587351-ee8522a4-3023-405e-89ad-67830ee21edb.PNG)
 
 
 
