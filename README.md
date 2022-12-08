@@ -9,7 +9,8 @@ Alessandro da Silva
 
 # Controle de Estoque Imagem!
 
-(https://user-images.githubusercontent.com/57419425/206587040-8488fd71-f6b4-43e0-9a9a-468f75bab58a.PNG)
+![1](https://user-images.githubusercontent.com/57419425/206587351-ee8522a4-3023-405e-89ad-67830ee21edb.PNG)
+
 
 # Aplicativos
 . Fornecedor
